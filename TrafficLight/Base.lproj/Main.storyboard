@@ -56,7 +56,7 @@
                                     <color key="titleColor" systemColor="systemBackgroundColor"/>
                                 </state>
                                 <connections>
-                                    <action selector="startButtonDidTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7f0-L8-A5i"/>
+                                    <action selector="startButtonDidTapped" destination="BYZ-38-t0r" eventType="touchUpInside" id="QKI-Vj-1KW"/>
                                 </connections>
                             </button>
                         </subviews>
